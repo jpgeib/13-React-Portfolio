@@ -4,10 +4,12 @@ import Navbar from '../../components/Navbar/Navbar';
 class PortfolioContent extends Component {
     render() {
         return (
-            <div className="container">
-                <Navbar/>
-            </div>
+            <div>
+                <Navbar />
+                <div className="container">
 
+                </div>
+            </div>
         );
 
     }

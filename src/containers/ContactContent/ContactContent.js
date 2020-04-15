@@ -4,8 +4,11 @@ import Navbar from '../../components/Navbar/Navbar';
 class ContactContent extends Component {
     render() {
         return (
-            <div className="container">
+            <div>
                 <Navbar />
+                <div className="container">
+
+                </div>
             </div>
         );
 

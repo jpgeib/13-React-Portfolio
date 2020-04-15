@@ -1,3 +1,4 @@
 body {
-    background-image: url("../src/Images/city-backdrop.JPG");
+    background-image: url(../src/Images/city-backdrop.JPG);
+    background-color: aqua;
 }
