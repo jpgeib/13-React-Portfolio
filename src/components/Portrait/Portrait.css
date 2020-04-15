@@ -1,0 +1,9 @@
+#portrait {
+    transform: rotate(90deg);
+    position: relative;
+    top: 60px;
+    padding: 0px;
+    border: solid black 3px;
+    background-color: darkgray;
+    
+}
