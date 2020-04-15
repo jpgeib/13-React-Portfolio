@@ -1,13 +1,15 @@
-import React from 'react';
+import React, { Component } from 'react';
 import Navbar from '../../components/Navbar/Navbar'
 
-const HomeContent = props => {
-    return(
-        <div className="container">
-            <Navbar/>
-            
-        </div>
-    );
+class HomeContent extends Component {
+    render () {
+       return(
+           <div className="container">
+               <Navbar/>
+           </div>
+       );
+
+    }
 }
 
 export default HomeContent;
