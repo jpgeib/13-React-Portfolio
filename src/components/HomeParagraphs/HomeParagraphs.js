@@ -1,6 +1,6 @@
 import React from 'react';
 
-import 'HomeParagraphs.css';
+import './HomeParagraphs.css';
 
 const HomeParagraphs = props => {
     return (
