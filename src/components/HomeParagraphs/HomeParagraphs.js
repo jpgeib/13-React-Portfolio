@@ -4,7 +4,7 @@ import './HomeParagraphs.css';
 
 const HomeParagraphs = props => {
     return (
-        <div className="col-sm-8 col-xs-12" id="paragraphs">
+        <div id="paragraphs">
             <div className="content1">
                 <p>
                     I am a graduate of Fordham University with two Bachelor's
