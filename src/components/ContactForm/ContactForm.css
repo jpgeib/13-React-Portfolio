@@ -1,0 +1,40 @@
+#contact-heading {
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+}
+
+.name-label {
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+}
+
+.email-label {
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+}
+
+.descrip-label {
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+}
+
+#name-bar {
+    width: 500px;
+}
+
+#email-bar {
+    width: 500px;
+}
+
+#descrip-bar {
+    width: 500px;
+}
+
+button {
+    background-image: url(../../Images/metallic-silver.jpg);
+    border: solid black 1px;
+    width: 200px;
+    height: 80px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 24px;
+}
