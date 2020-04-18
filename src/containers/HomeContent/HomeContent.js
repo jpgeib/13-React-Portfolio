@@ -11,6 +11,12 @@ class HomeContent extends Component {
             <div className="HomeRender">
                 <Navbar />
                 <div className="container">
+                    <div className="col-sm-3" id="home-heading">
+                        <h1>About Me</h1>
+                    </div>
+                </div>
+
+                <div className="container" id="content-container">
                     <div className="row">
                         <div className="col-sm-4 col-xs-12">
                             <Portrait />

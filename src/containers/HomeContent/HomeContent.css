@@ -1,5 +1,18 @@
-.container {
-    background-color: aqua;
+body {
+    background-image: url(../../Images/city-backdrop.JPG);
+}
+
+#content-container {
+    background-color: rgb(180, 74, 70);;
     position: relative;
-    top: 200px;
+    top: 100px;
+    width: 1200px;
+    height: 500px;
+    border: solid black 3px;
+}
+
+#home-heading {
+    position: relative;
+    top: 80px;
+    font-family: 'Dancing Script', cursive;
 }
