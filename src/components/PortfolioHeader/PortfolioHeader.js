@@ -1,5 +1,7 @@
 import React from 'react';
 
+import "./PortfolioHeader.css";
+
 const PortfolioHeader = props => {
     return(
         <div>
