@@ -1,7 +1,10 @@
 import React, { Component } from 'react';
+
 import Navbar from '../../components/Navbar/Navbar';
 import PortfolioHeader from '../../components/PortfolioHeader/PortfolioHeader';
 import PhotoshopIcon from '../../components/PhotoshopIcon/PhotoshopIcon';
+import "./PortfolioContent.css";
+import PremiereProIcon from '../../components/PremiereProIcon/PremiereProIcon';
 
 class PortfolioContent extends Component {
     render() {
@@ -15,6 +18,9 @@ class PortfolioContent extends Component {
                     <div className="row">
                         <div className="col-sm-4">
                             <PhotoshopIcon />
+                        </div>
+                        <div className="col-sm-4">
+                            <PremiereProIcon />
                         </div>
                     </div>
                     
