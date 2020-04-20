@@ -16,7 +16,7 @@ class HomeContent extends Component {
                     </div>
                 </div>
 
-                <div className="container" id="content-container">
+                <div className="container" id="home-container">
                     <div className="row">
                         <div className="col-sm-4 col-xs-12">
                             <Portrait />

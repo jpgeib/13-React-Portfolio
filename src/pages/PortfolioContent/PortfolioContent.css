@@ -1,4 +1,22 @@
 .icon {
     width: 150px;
     height: 150px;
+    position: relative;
+    left: 95px;
+}
+
+#portfolio-container {
+    padding: 30px;
+    background-color: rgb(180, 74, 70);;
+    position: relative;
+    top: 100px;
+    width: 1200px;
+    height: 800px;
+    border: solid black 3px;
+}
+
+#portfolio-heading {
+    position: relative;
+    top: 80px;
+    font-family: 'Dancing Script', cursive;
 }

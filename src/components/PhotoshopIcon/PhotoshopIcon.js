@@ -1,7 +1,5 @@
 import React from "react";
 
-// import "./PhotoshopIcon.css";
-
 const PhotoshopIcon = props => {
     return(
         <div>

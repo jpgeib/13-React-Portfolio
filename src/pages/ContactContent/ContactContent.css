@@ -1,4 +1,4 @@
-#content-container {
+#contact-container {
     padding: 30px;
     background-color: rgb(180, 74, 70);;
     position: relative;
@@ -6,4 +6,10 @@
     width: 1200px;
     height: 600px;
     border: solid black 3px;
+}
+
+#contact-heading {
+    position: relative;
+    top: 80px;
+    font-family: 'Dancing Script', cursive;
 }

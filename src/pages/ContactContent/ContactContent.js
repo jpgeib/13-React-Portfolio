@@ -9,7 +9,13 @@ class ContactContent extends Component {
         return (
             <div>
                 <Navbar />
-                <div className="container" id="content-container">
+                <div className="container">
+                    <div className="col-sm-3" id="contact-heading">
+                        <h1>Contact</h1>
+                    </div>
+                </div>
+
+                <div className="container" id="contact-container">
                     <ContactForm/>
                 </div>
             </div>

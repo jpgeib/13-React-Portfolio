@@ -2,7 +2,7 @@ body {
     background-image: url(../../Images/city-backdrop.JPG);
 }
 
-#content-container {
+#home-container {
     background-color: rgb(180, 74, 70);;
     position: relative;
     top: 100px;
